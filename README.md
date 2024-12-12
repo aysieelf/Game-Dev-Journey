@@ -1,6 +1,6 @@
 # 🎮 My Game Development Journey
 
-> "A game is a dream inside a dream." 
+> A game is a dream inside a dream...
 
 ## 👾 About This Journey
 I'm a complete beginner in game development. My goal is to create small, meaningful games that blur the line between interactive art and traditional gaming experiences.
