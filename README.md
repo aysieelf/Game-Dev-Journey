@@ -14,7 +14,7 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 ## Learning Path Progress
 
 ### Classic Games Mastery
-1. [x] [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
+[x] 1. [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
 3. ▰▰▰▱▱ [Snake](https://github.com/aysieelf/Snake)
 4. ▰▱▱▱▱ Pong
 5. ▰▱▱▱▱ Breakout
