@@ -14,14 +14,14 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 ## Learning Path Progress
 
 ### Classic Games Mastery
-[x] 1. [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
-3. ▰▰▰▱▱ [Snake](https://github.com/aysieelf/Snake)
-4. ▰▱▱▱▱ Pong
-5. ▰▱▱▱▱ Breakout
-6. ▰▱▱▱▱ Space Invaders
-7. ▰▱▱▱▱ Flappy Bird
-8. ▰▱▱▱▱ Platformer
-9. ▰▱▱▱▱ Dungeon Crawler
+1. ✅ [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
+2. ▰▰▰▱▱ [Snake](https://github.com/aysieelf/Snake)
+3. ▰▱▱▱▱ Pong
+4. ▰▱▱▱▱ Breakout
+5. ▰▱▱▱▱ Space Invaders
+6. ▰▱▱▱▱ Flappy Bird
+7. ▰▱▱▱▱ Platformer
+8. ▰▱▱▱▱ Dungeon Crawler
 
 ## Dream Projects Progress
 Progress bars for my future artistic game projects:
