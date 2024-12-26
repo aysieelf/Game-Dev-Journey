@@ -26,7 +26,7 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 ## Dream Projects Progress
 Progress bars for my future artistic game projects:
 
-### 🛸 UFO Chronicles: Small Town Mischief
+### 🛸 [Wake-UP Corp](https://github.com/aysieelf/Wake-UP-Corp)
 Status: Concept Phase | Progress: [▓░░░░░░░░░] 10%
 - A quirky pixel-art adventure where you're an alien conducting "research" on Earth's cows
 - Current focus: Learning fundamentals through classic games
