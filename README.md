@@ -15,7 +15,7 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 
 ### Classic Games Mastery
 1. ✅ [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
-2. ▰▰▰▰▱ [Snake](https://github.com/aysieelf/Snake)
+2. ✅ [Snake](https://github.com/aysieelf/Snake)
 4. ▰▱▱▱▱ Pong
 5. ▰▱▱▱▱ Breakout
 6. ▰▱▱▱▱ Space Invaders
