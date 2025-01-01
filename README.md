@@ -16,7 +16,7 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 ### Classic Games Mastery
 1. ✅ [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
 2. ✅ [Snake](https://github.com/aysieelf/Snake)
-4. ▰▱▱▱▱ [Foxy Dreams (Pong)](https://github.com/aysieelf/Foxy-Dreams)
+4. ▰▰▱▱▱ [Sleepy Fox (Pong)](https://github.com/aysieelf/Sleepy-Fox)
 5. ▰▱▱▱▱ Breakout
 6. ▰▱▱▱▱ Space Invaders
 7. ▰▱▱▱▱ Flappy Bird
