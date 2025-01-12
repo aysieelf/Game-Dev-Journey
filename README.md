@@ -7,9 +7,9 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 
 ## Current Goals
 - [x] Master PyGame fundamentals
+- [ ] Make my first game with GODOT
 - [ ] Create 8 classic games to build strong foundations
-- [ ] Explore narrative design and artistic expression in games
-- [ ] Learn GODOT for future 3D projects
+- [ ] Make my first indie game
 
 ## Learning Path Progress
 
