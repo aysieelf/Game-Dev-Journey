@@ -17,7 +17,7 @@ I'm a complete beginner in game development. My goal is to create small, meaning
 1. ✅ [Tic-Tac-Toe](https://github.com/aysieelf/Tic-Tac-Toe)
 2. ✅ [Snake](https://github.com/aysieelf/Snake)
 4. ✅ [Sleepy Fox (Pong)](https://github.com/aysieelf/Sleepy-Fox)
-5. ▰▱▱▱▱ [Snow Break (Breakout)](https://github.com/aysieelf/Snow-Break)
+5. ▰▱▱▱▱ [Winter Splinter (Breakout)](https://github.com/aysieelf/Snow-Break)
 6. ▰▱▱▱▱ Space Invaders
 7. ▰▱▱▱▱ Flappy Bird
 8. ▰▱▱▱▱ Platformer
